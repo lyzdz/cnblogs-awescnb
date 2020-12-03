@@ -1,3 +1,6 @@
+###art 快速构建、安装、切换博客园皮肤
+###guangzan.gitee.io/awescnb-docs
+
 ## Awescnb
 
 您可以用 awescnb 做以下三件事:
